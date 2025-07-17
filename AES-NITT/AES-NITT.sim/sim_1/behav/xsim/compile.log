@@ -1,0 +1,32 @@
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haris/xilinx_vivado_projects/AES-NITT/AES-NITT.srcs/sources_1/imports/Downloads/AES.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AES
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haris/xilinx_vivado_projects/AES-NITT/AES-NITT.srcs/sources_1/imports/Downloads/AES_Decrypt.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AES_Decrypt
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haris/xilinx_vivado_projects/AES-NITT/AES-NITT.srcs/sources_1/imports/Downloads/AES_Encrypt.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AES_Encrypt
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haris/xilinx_vivado_projects/AES-NITT/AES-NITT.srcs/sources_1/imports/Downloads/addRoundKey.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module addRoundKey
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haris/xilinx_vivado_projects/AES-NITT/AES-NITT.srcs/sources_1/imports/Downloads/decryptRound.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module decryptRound
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haris/xilinx_vivado_projects/AES-NITT/AES-NITT.srcs/sources_1/imports/Downloads/encryptRound.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module encryptRound
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haris/xilinx_vivado_projects/AES-NITT/AES-NITT.srcs/sources_1/imports/Downloads/inverseMixColumns.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module inverseMixColumns
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haris/xilinx_vivado_projects/AES-NITT/AES-NITT.srcs/sources_1/imports/Downloads/inverseSbox.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module inverseSbox
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haris/xilinx_vivado_projects/AES-NITT/AES-NITT.srcs/sources_1/imports/Downloads/inverseShiftRows.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module inverseShiftRows
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haris/xilinx_vivado_projects/AES-NITT/AES-NITT.srcs/sources_1/imports/Downloads/inverseSubBytes.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module inverseSubBytes
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haris/xilinx_vivado_projects/AES-NITT/AES-NITT.srcs/sources_1/imports/Downloads/keyExpansion.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module keyExpansion
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haris/xilinx_vivado_projects/AES-NITT/AES-NITT.srcs/sources_1/imports/Downloads/mixColumns.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module mixColumns
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haris/xilinx_vivado_projects/AES-NITT/AES-NITT.srcs/sources_1/imports/Downloads/sbox.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module sbox
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haris/xilinx_vivado_projects/AES-NITT/AES-NITT.srcs/sources_1/imports/Downloads/shiftRows.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module shiftRows
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haris/xilinx_vivado_projects/AES-NITT/AES-NITT.srcs/sources_1/imports/Downloads/subBytes.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module subBytes
+INFO: [VRFC 10-2263] Analyzing Verilog file "C:/Users/haris/xilinx_vivado_projects/AES-NITT/AES-NITT.srcs/sim_1/imports/Downloads/AES_tb.v" into library xil_defaultlib
+INFO: [VRFC 10-311] analyzing module AES_tb

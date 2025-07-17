@@ -1,0 +1,7 @@
+Time resolution is 1 ps
+Encrypt128 = z, Decrypt128 = x, Encrypt192 = x, Decrypt192 = x, Encrypt256 = x, Decrypt256 = x
+Encrypt128 = z, Decrypt128 = x, Encrypt192 = 0, Decrypt192 = x, Encrypt256 = x, Decrypt256 = x
+Encrypt128 = z, Decrypt128 = 0, Encrypt192 = 0, Decrypt192 = x, Encrypt256 = x, Decrypt256 = x
+Encrypt128 = z, Decrypt128 = 0, Encrypt192 = 0, Decrypt192 = x, Encrypt256 = 0, Decrypt256 = x
+Encrypt128 = z, Decrypt128 = 0, Encrypt192 = 0, Decrypt192 = 0, Encrypt256 = 0, Decrypt256 = x
+Encrypt128 = z, Decrypt128 = 0, Encrypt192 = 0, Decrypt192 = 0, Encrypt256 = 0, Decrypt256 = 0

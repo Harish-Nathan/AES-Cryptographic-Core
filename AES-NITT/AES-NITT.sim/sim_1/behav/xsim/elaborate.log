@@ -1,0 +1,37 @@
+Vivado Simulator v2024.2.0
+Copyright 1986-2022 Xilinx, Inc. All Rights Reserved.
+Copyright 2022-2024 Advanced Micro Devices, Inc. All Rights Reserved.
+Running: C:/Xilinxs/Vivado/2024.2/bin/unwrapped/win64.o/xelab.exe --incr --debug typical --relax --mt 2 -L xil_defaultlib -L unisims_ver -L unimacro_ver -L secureip --snapshot AES_tb_behav xil_defaultlib.AES_tb xil_defaultlib.glbl -log elaborate.log 
+Using 2 slave threads.
+Starting static elaboration
+Pass Through NonSizing Optimizer
+Completed static elaboration
+Starting simulation data flow analysis
+WARNING: [XSIM 43-4100] "C:/Users/haris/xilinx_vivado_projects/AES-NITT/AES-NITT.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+WARNING: [XSIM 43-4100] "C:/Users/haris/xilinx_vivado_projects/AES-NITT/AES-NITT.sim/sim_1/behav/xsim/glbl.v" Line 6. Module glbl has a timescale but at least one module in design doesn't have timescale.
+Completed simulation data flow analysis
+Time Resolution for simulation is 1ps
+Compiling module xil_defaultlib.keyExpansion
+Compiling module xil_defaultlib.addRoundKey
+Compiling module xil_defaultlib.sbox
+Compiling module xil_defaultlib.subBytes_default
+Compiling module xil_defaultlib.shiftRows
+Compiling module xil_defaultlib.mixColumns
+Compiling module xil_defaultlib.encryptRound
+Compiling module xil_defaultlib.AES_Encrypt_default
+Compiling module xil_defaultlib.keyExpansion(nk=6,nr=12)
+Compiling module xil_defaultlib.AES_Encrypt(N=192,Nr=12,Nk=6)
+Compiling module xil_defaultlib.keyExpansion(nk=8,nr=14)
+Compiling module xil_defaultlib.AES_Encrypt(N=256,Nr=14,Nk=8)
+Compiling module xil_defaultlib.inverseShiftRows
+Compiling module xil_defaultlib.inverseSbox
+Compiling module xil_defaultlib.inverseSubBytes_default
+Compiling module xil_defaultlib.inverseMixColumns
+Compiling module xil_defaultlib.decryptRound
+Compiling module xil_defaultlib.AES_Decrypt_default
+Compiling module xil_defaultlib.AES_Decrypt(N=192,Nr=12,Nk=6)
+Compiling module xil_defaultlib.AES_Decrypt(N=256,Nr=14,Nk=8)
+Compiling module xil_defaultlib.AES
+Compiling module xil_defaultlib.AES_tb
+Compiling module xil_defaultlib.glbl
+Built simulation snapshot AES_tb_behav

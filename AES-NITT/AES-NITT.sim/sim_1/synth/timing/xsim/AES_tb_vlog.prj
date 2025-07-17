@@ -1,0 +1,7 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"AES_tb_time_synth.v" \
+"../../../../../AES-NITT.srcs/sim_1/imports/Downloads/AES_tb.v" \
+
+# Do not sort compile order
+nosort

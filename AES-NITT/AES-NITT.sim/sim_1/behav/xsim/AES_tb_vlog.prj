@@ -1,0 +1,24 @@
+# compile verilog/system verilog design source files
+verilog xil_defaultlib  \
+"../../../../AES-NITT.srcs/sources_1/imports/Downloads/AES.v" \
+"../../../../AES-NITT.srcs/sources_1/imports/Downloads/AES_Decrypt.v" \
+"../../../../AES-NITT.srcs/sources_1/imports/Downloads/AES_Encrypt.v" \
+"../../../../AES-NITT.srcs/sources_1/imports/Downloads/addRoundKey.v" \
+"../../../../AES-NITT.srcs/sources_1/imports/Downloads/decryptRound.v" \
+"../../../../AES-NITT.srcs/sources_1/imports/Downloads/encryptRound.v" \
+"../../../../AES-NITT.srcs/sources_1/imports/Downloads/inverseMixColumns.v" \
+"../../../../AES-NITT.srcs/sources_1/imports/Downloads/inverseSbox.v" \
+"../../../../AES-NITT.srcs/sources_1/imports/Downloads/inverseShiftRows.v" \
+"../../../../AES-NITT.srcs/sources_1/imports/Downloads/inverseSubBytes.v" \
+"../../../../AES-NITT.srcs/sources_1/imports/Downloads/keyExpansion.v" \
+"../../../../AES-NITT.srcs/sources_1/imports/Downloads/mixColumns.v" \
+"../../../../AES-NITT.srcs/sources_1/imports/Downloads/sbox.v" \
+"../../../../AES-NITT.srcs/sources_1/imports/Downloads/shiftRows.v" \
+"../../../../AES-NITT.srcs/sources_1/imports/Downloads/subBytes.v" \
+"../../../../AES-NITT.srcs/sim_1/imports/Downloads/AES_tb.v" \
+
+# compile glbl module
+verilog xil_defaultlib "glbl.v"
+
+# Do not sort compile order
+nosort
