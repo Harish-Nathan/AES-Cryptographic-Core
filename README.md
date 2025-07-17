@@ -102,8 +102,8 @@ Special thanks to the **Department of ECE, NIT Trichy** for the guidance and opp
 I'm passionate about **VLSI Design**, **Security Hardware**, and **RTL Development**.  
 Reach out if you want to collaborate, hire, or just nerd out over cryptographic hardware design!
 
-> 🔗 [LinkedIn](https://linkedin.com/in/your-profile)  
-> ✉️ harishs@email.com
+> 🔗 [LinkedIn](https://www.linkedin.com/in/harish024/)  
+> ✉️ harishnathan024@gmail.com
 
 ---
 
